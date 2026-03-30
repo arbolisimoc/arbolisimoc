@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hola, soy <strong>Arbolisimoc</strong> 👋</h1>
-  <p>Estudiante de programación | Colombia 🇨🇴</p>
+  <h1>Hello, I am <strong>Arbolisimoc</strong> 👋</h1>
+  <p>Programming student | Colombia 🇨🇴</p>
   <img src="https://komarev.com/ghpvc/?username=arbolisimoc&color=red&style=flat-square" alt="Visitors"/>
 </div>
 
@@ -12,16 +12,16 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About me
 
-- 🎓 Estudiante de Técnico en Programación (SENA)
-- 🚀 Aprendiendo desarrollo web desde cero
-- 🏗️ Co-fundador de **TecnoForge**
+- 🎓 Programming Technician student (SENA)
+- 🚀 Learning web development from scratch
+- 🏗️ Working on promising projects
 - 📍 Sevilla, Valle del Cauca, Colombia
 
 ---
 
-## 🛠️ Tecnologías que estoy aprendiendo
+## 🛠️ Technologies I'm learning
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 Estadísticas
+## 📊 Stats
 
 <div align="center">
 
