@@ -15,7 +15,7 @@
 
 - 🎓 Estudiante de Técnico en Programación (SENA, CEO Sevilla, Autodidacta)
 - 🚀 Aprendiendo desarrollo web desde cero
-- 🏗️ Co-fundador de **TecnoForge**
+- 🏗️ Empezando a realizar proyecto prometedores
 - 📍 Sevilla, Valle del Cauca, Colombia
 
 ---
@@ -30,6 +30,6 @@
 
 ## 📊 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbolisimoc&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbolisimoc&layout=compact&theme=radical&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arbolisimoc&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arbolisimoc&show_icons=true&theme=radical&cache_seconds=1800)
