@@ -1,35 +1,46 @@
-<div GitHub Statsalign„stred“>
-  <h1>Ahoj, sója <silný>Arbolisimoc</silný> 👋</h1>
-  <p>Estudiante de programación | Kolumbia spol</p>
+<div align="center">
+  <h1>Hola, soy <strong>Arbolisimoc</strong> 👋</h1>
+  <p>Estudiante de programación | Colombia 🇨🇴</p>
+  <img src="https://komarev.com/ghpvc/?username=arbolisimoc&color=red&style=flat-square" alt="Visitors"/>
 </div>
 
 ---
 
-<div zarovnať=„stred“>
-  <img src=„https://i.pinimg.com/originals/0d/67/10/0d6710e678aed18029201c49851bd334.gif“>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0d/67/10/0d6710e678aed18029201c49851bd334.gif">
 </div>
 
 ---
 
-## ?? ?? ?? Sobre mí
+## 🧑‍💻 Sobre mí
 
-- 🎓 Estudiante de Técnico en Programación (SENA, CEO Sevilla, Autodidacta)
+- 🎓 Estudiante de Técnico en Programación (SENA)
 - 🚀 Aprendiendo desarrollo web desde cero
-- ?? ️ Empezando a realizar proyecto prometedores
-- 📍 Sevilla, Valle del Cauca, Kolumbia
+- 🏗️ Co-fundador de **TecnoForge**
+- 📍 Sevilla, Valle del Cauca, Colombia
 
 ---
 
-## ?? ️ Tecnologías que estoy aprendiendo
+## 🛠️ Tecnologías que estoy aprendiendo
+
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbolisimoc&layout=compact&theme=radical&cache_seconds=1800)
+<div align="center">
 
-![Štatistics GitHub](https://github-readme-stats.vercel.app/api?username=arbolisimoc&show_icons=true&theme=radical&cache_seconds=1800)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arbolisimoc&theme=radical&locale=es)](https://git.io/streak-stats)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=arbolisimoc&theme=radical&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
