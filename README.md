@@ -41,6 +41,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arbolisimoc&theme=radical&locale=es)](https://git.io/streak-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=arbolisimoc&theme=radical&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbolisimoc&layout=compact&theme=radical&langs_count=6&hide_border=true)
 
 </div>
