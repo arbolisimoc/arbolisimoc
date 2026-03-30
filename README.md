@@ -1,26 +1,26 @@
-<div align="center">
-  <h1>Hola, soy <strong>Arbolisimoc</strong> 👋</h1>
-  <p>Estudiante de programación | Colombia co</p>
+<div GitHub Statsalign„stred“>
+  <h1>Ahoj, sója <silný>Arbolisimoc</silný> 👋</h1>
+  <p>Estudiante de programación | Kolumbia spol</p>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/0d/67/10/0d6710e678aed18029201c49851bd334.gif" width="300">
+<div zarovnať=„stred“>
+  <img src=„https://i.pinimg.com/originals/0d/67/10/0d6710e678aed18029201c49851bd334.gif“>
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## ?? ?? ?? Sobre mí
 
 - 🎓 Estudiante de Técnico en Programación (SENA, CEO Sevilla, Autodidacta)
 - 🚀 Aprendiendo desarrollo web desde cero
-- 🏗️ Empezando a realizar proyecto prometedores
-- 📍 Sevilla, Valle del Cauca, Colombia
+- ?? ️ Empezando a realizar proyecto prometedores
+- 📍 Sevilla, Valle del Cauca, Kolumbia
 
 ---
 
-## 🛠️ Tecnologías que estoy aprendiendo
+## ?? ️ Tecnologías que estoy aprendiendo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,4 +32,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbolisimoc&layout=compact&theme=radical&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arbolisimoc&show_icons=true&theme=radical&cache_seconds=1800)
+![Štatistics GitHub](https://github-readme-stats.vercel.app/api?username=arbolisimoc&show_icons=true&theme=radical&cache_seconds=1800)
