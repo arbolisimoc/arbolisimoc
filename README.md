@@ -41,6 +41,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arbolisimoc&theme=radical&locale=es)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbolisimoc&layout=compact&theme=radical&langs_count=6&hide_border=true)
 
 </div>
