@@ -1,7 +1,7 @@
 <div alinear="centro">
   <h1>Hola soja <fuerte>Arbolisimoc</fuerte> 👋</h1>
   <p>Estudio de programación | Colombia 🇨🇴</p>
-  <img src="https://komarev.com/ghpvc/?username=arbolisimoc&color=rojo&estilo=cuadrado plano" alt=„Visitantes"/>
+  <img src="https://komarev.com/ghpvc/?username=arbolisimoc&color=rojo&estilo=cuadrado plano" alt="Visitantes"/>
 </div>
 
 ---
